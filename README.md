@@ -1,1 +1,3 @@
 # Word-networks
+
+The following practical work results from the comparison between graphs constructed from interactions between words. On one hand, there are relationships between words that arise from an experiment of free associations, and on the other hand, the semantic distances calculated between the same words (the embedding used is word2vec). For both sets of interactions, the corresponding graphs were plotted, and their characterization was carried out. Comparisons were made based on the number of edges, centrality measures, network diameter, connections between elements, and community detection. Finally, the construction of prototype networks was carried out for the set of words derived from the experimentation.
