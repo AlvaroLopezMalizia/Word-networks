@@ -1,3 +1,26 @@
-# Word-networks
+# Word-networks 📚🔍
 
-The following practical work results from the comparison between graphs constructed from interactions between words. On one hand, there are relationships between words that arise from an experiment of free associations, and on the other hand, the semantic distances calculated between the same words (the embedding used is word2vec). For both sets of interactions, the corresponding graphs were plotted, and their characterization was carried out. Comparisons were made based on the number of edges, centrality measures, network diameter, connections between elements, and community detection. Finally, the construction of prototype networks was carried out for the set of words derived from the experimentation.
+Explore the fascinating world of word networks through this practical work, which delves into the comparison between graphs constructed from interactions between words. 
+
+## Overview 🌟
+This practical work examines the relationships between words derived from two distinct sources: 
+
+1. **Free Associations Experiment**: Discover the intricate web of relationships between words based on a free associations experiment.
+2. **Semantic Distances Calculation**: Explore the semantic distances between words calculated using word2vec embedding.
+
+## Key Highlights 🎉
+- **Graph Construction**: Graphs corresponding to both sets of interactions are constructed and plotted.
+- **Characterization**: Detailed characterization of the graphs is performed, including analysis of:
+  - Number of edges
+  - Centrality measures
+  - Network diameter
+  - Connections between elements
+  - Community detection
+
+## Comparative Analysis 🔄
+Through meticulous comparisons, gain insights into the similarities and differences between the two types of word interactions.
+
+## Prototype Networks 🚀
+Experience the construction of prototype networks using the set of words derived from the experimentation, offering a glimpse into the underlying structures and patterns.
+
+Dive into the world of word networks and unravel the intricacies of language associations and semantics! 🌐🔍✨
